@@ -532,9 +532,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
+## 1A Output:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/09f6c09c-6822-4930-afb7-436e36ab9c2f" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/89afbb8f-9838-47e9-8521-a82191aff85d" />
-<img width="1260" height="675" alt="image" src="https://github.com/user-attachments/assets/9d942244-cf00-431f-a910-932f07c7aa45" />
+
+## 1B Output:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/13e4b44d-c7ef-4832-8f96-d190abfd4521" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9da4cef4-f5f4-4176-8859-700a788af656" />
+
+
 
 
 ## Result
